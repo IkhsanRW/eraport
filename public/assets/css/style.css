@@ -1,0 +1,17 @@
+input:not(:placeholder-shown):not([type="file"]):invalid {
+	outline: none;
+	border: 1px solid #f00;
+}
+.cell-fit {
+	width: 1% !important;
+	text-wrap: nowrap;
+}
+.font-arial{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.font-14{
+	font-size: 14pt;
+}
+.font-12{
+	font-size: 12pt;
+}

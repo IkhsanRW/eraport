@@ -1,0 +1,5 @@
+Yudi : 
+    - Hapus mapel yang diampu guru mapel
+
+Arul :
+    - Penambahan nama kelas, nama wali dan tahun ajaran pada fitur kenaikan kelas & yang lainnya (saat pilih siswa) 
